@@ -1,15 +1,15 @@
 {
-  "name": "parcel-project-template",
+  "name": "FILMOTECA",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Victor-Rochnyak.github.io/Filmoteka",
+  "homepage": "https://VitalinaKovbasiuk.github.io/FILMOTECA",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /Filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Victor-Rochnyak/Filmoteka.git"
+    "url": "https://github.com/VitalinaKovbasiuk/FILMOTECA.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
